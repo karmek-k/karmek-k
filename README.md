@@ -7,4 +7,4 @@
                      |/
 ```
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karmek-k)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karmek-k&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
