@@ -1,8 +1,10 @@
 # Hey there!
 
-Quis accusantium at quam sunt deserunt. Sunt ex distinctio est dolor iste ad. Sunt et error a. Quia eos voluptate dignissimos vero dolorum. Aut laudantium voluptas tempore perspiciatis et non aliquam temporibus. Facilis molestiae corrupti illum quia nulla qui explicabo totam.
+Some info about me:
 
-Illum dicta velit tempora. Et adipisci ea aspernatur. Et fugiat consequatur exercitationem. Architecto officiis perferendis commodi laboriosam. Quis autem dignissimos excepturi illum ut ut sed ut. Id ut nobis harum.
+- I'm a fresh high school graduate
+- I've been coding since 2011 or so (although I became more serious about that a few years ago).
+- Since the beginning of 2021 my main point of interest is PHP + Symfony framework, but I'm proficient in other languages too (mainly Python and JS/TS).
 
 **How about [checking out my blog](//karmek-k-blog.netlify.app)?**
 
