@@ -4,7 +4,7 @@ Some info about me:
 
 - I'm a fresh high school graduate
 - I've been coding since 2011 or so (although I became more serious about that a few years ago).
-- Since the beginning of 2021 my main point of interest is PHP + Symfony framework, but I'm proficient in other languages too (mainly Python and JS/TS).
+- I started exploring PHP + Symfony framework at the beginning of 2021, but I'm proficient in other languages too (mainly Python and JS/TS).
 
 ## Stats
 
