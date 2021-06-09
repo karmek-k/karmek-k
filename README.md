@@ -12,6 +12,5 @@ Some info about me:
   <img
     src="https://github.com/karmek-k/karmek-k/blob/master/github-metrics.svg"
     alt="Metrics"
-    width="100%"
   />
 </div>
