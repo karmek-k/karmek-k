@@ -10,7 +10,7 @@ Some info about me:
 
 <div align="center">
   <img
-    src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg"
+    src="https://github.com/my-github-user/karmek-k/blob/master/github-metrics.svg"
     alt="Metrics"
     width="100%"
   />
