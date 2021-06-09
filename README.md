@@ -10,15 +10,8 @@ Some info about me:
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=karmek-k&theme=dark"
-    alt="GitHub stats"
-  />
-
-  <hr />
-
-  <img 
-    class="margin"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmek-k&theme=dark"
-    alt="Top langs"
+    src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg"
+    alt="Metrics"
+    width="100%"
   />
 </div>
