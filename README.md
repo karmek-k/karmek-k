@@ -6,8 +6,6 @@ Some info about me:
 - I've been coding since 2011 or so (although I became more serious about that a few years ago).
 - Since the beginning of 2021 my main point of interest is PHP + Symfony framework, but I'm proficient in other languages too (mainly Python and JS/TS).
 
-**How about [checking out my blog](//karmek-k-blog.netlify.app)?**
-
 ## Stats
 
 <div align="center">
