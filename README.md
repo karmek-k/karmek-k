@@ -2,7 +2,7 @@
 
 I'm a 19 years old developer based in Poland.
 
-I currently work on an open-source danmaku (bullet hell) game.
+I currently work on an [open-source danmaku (bullet hell) game](//github.com/karmek-k/dandash).
 Besides that, I also do backend, and sometimes frontend development.
 
 ## More about me
@@ -16,7 +16,7 @@ Besides that, I also do backend, and sometimes frontend development.
 
 - backend: Express.js / Django / Symfony
 - frontend: React
-- game: LibGDX (I'm not used to game dev, but this one is pretty comfy)
+- game: libGDX (I'm not used to game dev, but this one is pretty comfy)
 
 ## Contact
 
