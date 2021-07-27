@@ -1,10 +1,28 @@
-# Hey there!
+# Hello!
 
-Some info about me:
+I'm a 19 years old developer based in Poland.
 
-- I'm a fresh high school graduate
-- I've been coding since 2011 or so (although I became more serious about that a few years ago).
-- I started exploring PHP + Symfony framework at the beginning of 2021, but I'm proficient in other languages too (mainly Python and JS/TS).
+I currently work on an open-source danmaku (bullet hell) game.
+Besides that, I also do backend, and sometimes frontend development.
+
+## More about me
+
+- Started out programming with C++ in 2011
+- Cat lover
+- Sometimes makes some music (guitar)
+- Performs really well at googling (but uses DuckDuckGo :D)
+
+### Preferred frameworks
+
+- backend: Express.js / Django / Symfony
+- frontend: React
+- game: LibGDX (I'm not used to game dev, but this one is pretty comfy)
+
+## Contact
+
+I'm on the autism spectrum, so please be understanding. Thank you!
+
+My Discord handle: *alunv#2352*
 
 ## Stats
 
