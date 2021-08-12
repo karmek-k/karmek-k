@@ -18,12 +18,6 @@ Besides that, I also do backend, and sometimes frontend development.
 - frontend: React
 - game: libGDX (I'm not used to game dev, but this one is pretty comfy)
 
-## Contact
-
-I'm on the autism spectrum, so please be understanding. Thank you!
-
-My Discord handle: *alunv#2352*
-
 ## Stats
 
 <div align="center">
