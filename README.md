@@ -5,6 +5,8 @@ I'm a 19 years old developer based in Poland.
 I currently work on an [open-source danmaku (bullet hell) game](//github.com/karmek-k/dandash).
 Besides that, I also do backend, and sometimes frontend development.
 
+### [Check out my blog!](https://karmek-k-blog.netlify.app/)
+
 ## More about me
 
 - Started out programming with C++ in 2011
