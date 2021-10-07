@@ -28,7 +28,11 @@ As for now, the GraphQL API is complete and I'm working on the Next.js frontend,
 
 Unfinished doesn't mean that they're not worthwhile!
 
-
+- [Memocards](https://github.com/karmek-k/memocards) - Flashcard application.
+  * Backend - *TypeScript, Express.js, TypeORM, Jest (testing), Docker*
+  * Frontend - *Create React App, Material-UI*
+- [DanDash](https://github.com/karmek-k/dandash) - A danmaku (bullet hell) game framework.
+  * *Java, libGDX*
 
 ## More about me
 
@@ -39,15 +43,15 @@ Unfinished doesn't mean that they're not worthwhile!
 
 ### Preferred frameworks
 
-- backend: ~~Express.js~~ (considering learning NestJS) / Django / Symfony
+- backend: Express.js (considering learning NestJS) / Django / Symfony
 - frontend: React
 - game: libGDX (I'm not used to game dev, but this one is pretty comfy)
 
-## Stats
+<!-- ## Stats
 
 <div align="center">
   <img
     src="https://github.com/karmek-k/karmek-k/blob/master/github-metrics.svg"
     alt="Metrics"
   />
-</div>
+</div> -->
