@@ -10,10 +10,10 @@ I usually do backend, and sometimes frontend development.
 
 #### Finished
 
-- [TinyReader](https://github.com/karmek-k/tinyreader) - A simple self-hosted RSS reader written in Symfony. Supports automatic article reloading, multiple users and includes an admin panel.
-  * *PHP, Symfony, PostgreSQL, nginx, Docker*
 - [Mijikasa](https://github.com/karmek-k/mijikasa) - Link shortener. Includes hCaptcha support to prevent spamming and several automatic tests. [Click here for a demo](https://mijikasa.herokuapp.com/).
   * *PHP, Symfony, PHPUnit, hCaptcha, Heroku*
+- [TinyReader](https://github.com/karmek-k/tinyreader) - A simple self-hosted RSS reader written in Symfony. Supports automatic article reloading, multiple users and includes an admin panel.
+  * *PHP, Symfony, PostgreSQL, nginx, Docker*
 - [Remind Me](https://github.com/karmek-k/remind-me) - A web service that allows for reminding/notifying users via various channels (currently only Discord is supported). Users can create *reminders* that are triggerred by *reminder jobs* - scheduled jobs that start every day, at a designated hour and minute.
 As for now, the GraphQL API is complete and I'm working on the Next.js frontend, feel free to set up an environment with `docker-compose` and introspect the API with a GraphQL client like [Insomnia](https://insomnia.rest/)!
   * Backend - *TypeScript, Apollo Server, Bull, GraphQL, TypeGraphQL, TypeORM, PostgreSQL, Redis, Docker*
