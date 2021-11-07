@@ -43,7 +43,7 @@ Unfinished doesn't mean that they're not worthwhile!
 
 ### Preferred frameworks
 
-- backend: Express.js (considering learning NestJS) / Symfony / Django
+- backend: Express.js (considering learning NestJS) / Symfony (currently studying Laravel) / Django
 - frontend: React
 - game: libGDX (I'm not used to game dev, but this one is pretty comfy)
 
