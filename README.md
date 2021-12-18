@@ -4,6 +4,8 @@ I'm a 19 years old developer based in Poland.
 
 I usually do backend, and sometimes frontend development.
 
+Currently working as a Junior PHP Developer.
+
 ### [Check out my blog!](https://karmek-k-blog.netlify.app/)
 
 ## Featured projects
