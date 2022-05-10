@@ -1,4 +1,10 @@
-# Hello!
+# I am considering to move to GitLab
+
+You should be able to see my new projects at [@karmek-k](https://gitlab.com/karmek-k) on GitLab.
+
+I'm not deleting this account for now :)
+
+## Hello!
 
 I'm a 20 years old developer based in Poland.
 
