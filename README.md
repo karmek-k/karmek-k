@@ -1,46 +1,26 @@
-# I am considering to move to GitLab
+<h1 align="center">Hi, I'm Bartosz</h1>
+<h3 align="center">A Backend Developer with an interest in Cloud Computing</h3>
 
-You should be able to see my new projects at [@karmek-k](https://gitlab.com/karmek-k) on GitLab.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karmek-k&label=Profile%20views&color=0e75b6&style=flat" alt="karmek-k" /> </p>
 
-I'm not deleting this account for now :)
+- 🔭 I’m currently working on **my CS foundations**
 
-## Hello!
+- 🌱 I’m currently learning **vim, devops**
 
-I'm a 20 years old developer based in Poland.
+- 👯 I’m looking to collaborate on **Go or PHP projects**
 
-I usually do backend, and sometimes frontend development.
+- 💬 Ask me about **everything related to backend dev :D**
 
-## Featured projects
+- ⚡ Fun fact **I started programming when I was 10**
 
-#### Finished
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://hashnode.com/@karmekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@karmekk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karmek_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karmek_k" height="30" width="40" /></a>
+</p>
 
-- [Mijikasa](https://github.com/karmek-k/mijikasa) - Link shortener. Includes hCaptcha support to prevent spamming and several automatic tests. [Click here for a demo](https://mijikasa.herokuapp.com/).
-  * *PHP, Symfony, PHPUnit, hCaptcha, Heroku*
-- [TinyReader](https://github.com/karmek-k/tinyreader) - A simple self-hosted RSS reader written in Symfony. Supports automatic article reloading, multiple users and includes an admin panel.
-  * *PHP, Symfony, PostgreSQL, nginx, Docker*
-- [Remind Me](https://github.com/karmek-k/remind-me) - A web service that allows for reminding/notifying users via various channels (currently only Discord is supported). Users can create *reminders* that are triggerred by *reminder jobs* - scheduled jobs that start every day, at a designated hour and minute.
-As for now, the GraphQL API is complete and I'm working on the Next.js frontend, feel free to set up an environment with `docker-compose` and introspect the API with a GraphQL client like [Insomnia](https://insomnia.rest/)!
-  * Backend - *TypeScript, Apollo Server, Bull, GraphQL, TypeGraphQL, TypeORM, PostgreSQL, Redis, Docker*
-  * Frontend - *TypeScript, Apollo Client, Next.js, Tailwind CSS*
-- [react-node-assignment](https://github.com/karmek-k/react-node-assignment) - This is a full-stack todo list, I created it as a recruitment assignment. Allows for generating a huge amount of tasks in order to demonstrate API pagination.
-  * Backend - *TypeScript, Express.js, TypeORM, Docker*
-  * Frontend - *TypeScript, Next.js, Material-UI*
-- [Friendly Notes](https://github.com/karmek-k/friendly-notes) - A pastebin that supports syntax highlighting. Has an English and Polish translation. Also, it allows users to fetch a random paste and has a Django admin panel.
-  * *Python, Django, Docker, nginx*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-#### Unfinished
-
-Unfinished doesn't mean that they're not worthwhile!
-
-- [Memocards](https://github.com/karmek-k/memocards) - Flashcard application.
-  * Backend - *TypeScript, Express.js, TypeORM, Jest (testing), Docker*
-  * Frontend - *Create React App, Material-UI*
-- [DanDash](https://github.com/karmek-k/dandash) - A danmaku (bullet hell) game framework.
-  * *Java, libGDX*
-
-## More about me
-
-- Started out programming with C++ in 2011
-- Cat lover
-- Sometimes makes some music (guitar)
-- Performs really well at googling (but uses DuckDuckGo :D)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/karmekk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karmekk" /></a></p><br><br>
