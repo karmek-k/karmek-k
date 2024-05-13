@@ -9,3 +9,4 @@ I am a software developer with 1.5 years of professional experience.
 ## Contact
 
 [Linkedin](https://www.linkedin.com/in/bartosz-glen/)
+[Useme](https://useme.com/pl/roles/contractor/bartosz-g,356130/)
