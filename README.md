@@ -8,6 +8,6 @@ I'm a software developer.
 
 ## Contact
 
-[Linkedin](https://www.linkedin.com/in/bartosz-glen/)
+[Linkedin - let's reach out](https://www.linkedin.com/in/bartosz-glen/)
 
-[Useme](https://useme.com/pl/roles/contractor/bartosz-g,356130/)
+[Useme - hire me](https://useme.com/pl/roles/contractor/bartosz-g,356130/)
